@@ -25,7 +25,7 @@ fixing the image was a bit of an hassle also, but i managed to get it done and f
 
 To deploy this project run
 
-click on the url ==> 
+click on the url ==> https://great-kiola.github.io/QR-code-component/
 
 ## License
 
