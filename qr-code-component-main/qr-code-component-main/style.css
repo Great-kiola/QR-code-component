@@ -5,6 +5,7 @@
 }
 
 .attribution {
+    margin-top: -80px;
     font-size: 15px;
     text-align: center;
 }
@@ -21,8 +22,6 @@
     width: 10%;
     height: 620px;
 }
-
-
 
 .container {
     justify-content: center;
